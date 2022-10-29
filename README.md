@@ -41,9 +41,8 @@
                                <p align="center"> – Steve Jobs, co-founder of Apple </p>
 
  <img src="https://media.giphy.com/media/mP8GermRyOFWV8PQeq/giphy.gif" alt="Coder GIF" width="80" height="150" align="right">
- <img src="https://media.giphy.com/media/UrzZ4TmQK17yJpYPIL/giphy.gif" alt="Coder GIF" width="250" height="150" align="center">                                          <p color="#ff0000">
- Thank you so much for <img src="https://media.giphy.com/media/AEMgXCqNwfxvbNWVCt/giphy.gif" width="20px">viewing my account .
-  </p>
+ <img src="https://media.giphy.com/media/kaZb7wDqm1A7sgW3ec/giphy.gif" alt="Coder GIF" width="250" height="150" align="center">                                          <p color="#ff0000">
+
 
 
      
