@@ -20,7 +20,7 @@
 -    WhatsApp: **+91 9985506841** 📞
 -    LinkedIn: **[LinkedIn](www.linkedin.com/in/shobitKapila)** 🖇️🔗
 -    Gmail: **[Gmail](kapilashobit5@gmail.com)** ✉️
--    StackOverflow - **[Stackoverflow](https://stackoverflow.com/users/22878366/kapila-shobit)** ❓
+-    StackOverflow - **[Stackoverflow]([https://stackoverflow.com/users/22878366/kapila-shobit](https://stackoverflow.com/users/22878366/kapila-shobit?tab=profile))** ❓
      
      
      
